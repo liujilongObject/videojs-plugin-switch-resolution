@@ -1,0 +1,24 @@
+{
+  "name": "videojs-plugin-switch-resolution",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [
+    "videojs",
+    "videojs-plugin",
+    "videojs-plugin-switch-resolution"
+  ],
+  "author": "liujilong <liu4426350@qq.com>",
+  "license": "MIT",
+  "description": "A videojs plugin that uses video configuration sources to switch resolution",
+  "dependencies": {
+    "video.js": "^8.21.0"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.85.0",
+    "vite": "^6.1.0"
+  }
+}
